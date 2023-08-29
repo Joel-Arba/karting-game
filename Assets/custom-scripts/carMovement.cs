@@ -131,5 +131,5 @@ public class carMovement : MonoBehaviour
     private Vector3 startingPosition;
     private Quaternion startingRotation;
 
-    public Player player;
+    public player player;
 }

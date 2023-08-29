@@ -13,7 +13,7 @@ public class UIController : MonoBehaviour
   public Text UITextLastLapTime;
   public Text UITextBestLapTime;
 
-  public Player UpdateUIForPlayer;
+  public player UpdateUIForPlayer;
 
   private int currentLap = -1;
   private float currentLapTime;

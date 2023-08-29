@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Player : MonoBehaviour
+public class player : MonoBehaviour
 {
   public float BestLapTime { get; private set; } = Mathf.Infinity;
 
