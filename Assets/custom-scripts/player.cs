@@ -117,8 +117,13 @@ public class player : MonoBehaviour
         }
 
         int lapCount = lapTimeListPanel.childCount;
-        Vector3 entryPosition = new Vector3(0, -lapCount * (lapTimeEntry.GetComponent<RectTransform>().rect.height + spacing), 0);
-        lapTimeEntry.GetComponent<RectTransform>().anchoredPosition = entryPosition;
+
+        // Adjust the position of the lapTimeEntry object
+        RectTransform lapTimeEntryRectTransform = lapTimeEntry.GetComponent<RectTransform>();
+        Vector3 entryPosition = new Vector3(0, -lapCount * (lapTimeEntryRectTransform.rect.height + spacing), 0);
+        entryPosition.y += 20f; // Move the entry higher
+        lapTimeEntryRectTransform.anchoredPosition = entryPosition;
+
 
         // Adjust the scroll rect's content size to fit the new entry
         RectTransform contentRect = lapTimeListPanel.GetComponent<RectTransform>();

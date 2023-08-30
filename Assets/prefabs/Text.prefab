@@ -34,7 +34,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -22.706863}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 632, y: 45.413742}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2725964796078831709
@@ -76,4 +76,4 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 
+  m_Text: werferwewe
