@@ -20,9 +20,8 @@ public class player : MonoBehaviour
 
     public GameObject lapTimeEntryPrefab;
     public Transform lapTimeListPanel;
-    private List<GameObject> lapTimeEntries = new List<GameObject>();
     public float spacing = 10f;
-    public float numberOfLaps = 5;
+    public float numberOfLaps = 1;
     public GameObject lapTimes;
     public GameObject racePanel;
     public GameObject mobileUI;
@@ -34,8 +33,10 @@ public class player : MonoBehaviour
     checkpointsParent = GameObject.Find("Checkpoints").transform;
     checkpointCount = checkpointsParent.childCount;
     checkpointLayer = LayerMask.NameToLayer("Checkpoint");
-    // carController = GetComponent<carController>();
-  }
+        // carController = GetComponent<carController>();
+
+        numberOfLaps = GameManager.instance.GetLapNumber();
+    }
 
   void StartLap()
     {
