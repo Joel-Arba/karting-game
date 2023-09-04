@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 269463c1eb9dba744a500f0ffcb45b75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4250845030025902866
+    second: acc pedal
+  - first:
+      213: -8216084860280890578
+    second: acc pedal
+  - first:
+      213: 4660848215232250490
+    second: car-pedals_1
+  - first:
+      213: -5263152748815204115
+    second: car-pedals_2
+  - first:
+      213: -1735777434835744751
+    second: car-pedals_3
+  - first:
+      213: 6973049073524734657
+    second: car-pedals_4
+  - first:
+      213: -5995359234993672489
+    second: car-pedals_5
+  - first:
+      213: 8669921629840362858
+    second: car-pedals_6
+  - first:
+      213: -3439736933012174910
+    second: car-pedals_7
+  - first:
+      213: 4753063837348789086
+    second: car-pedals_8
+  - first:
+      213: -7362354077864101372
+    second: car-pedals_9
+  - first:
+      213: -3601112421441565846
+    second: car-pedals_10
+  - first:
+      213: 5806250658563524422
+    second: car-pedals_11
+  - first:
+      213: -2324749431012752445
+    second: car-pedals_12
+  - first:
+      213: -26340896215564679
+    second: car-pedals_13
+  - first:
+      213: -6998983878154174222
+    second: car-pedals_14
+  - first:
+      213: -3285977823077915802
+    second: car-pedals_15
+  - first:
+      213: 2657621437238344372
+    second: car-pedals_16
+  - first:
+      213: 1224793046071790415
+    second: car-pedals_17
+  - first:
+      213: -1163082895090189506
+    second: car-pedals_18
+  - first:
+      213: 4496187393718485273
+    second: car-pedals_19
+  - first:
+      213: -794022388303198193
+    second: car-pedals_20
+  - first:
+      213: 2242667925747444981
+    second: car-pedals_21
+  - first:
+      213: 5211765681238742613
+    second: car-pedals_22
+  - first:
+      213: 4051756975896810177
+    second: car-pedals_23
+  - first:
+      213: -6792996883530399170
+    second: car-pedals_24
+  - first:
+      213: 200192279423268617
+    second: car-pedals_25
+  - first:
+      213: 3382048680398533669
+    second: car-pedals_26
+  - first:
+      213: 2118010413102925678
+    second: car-pedals_27
+  - first:
+      213: 982423235101830788
+    second: car-pedals_28
+  - first:
+      213: 561519714677351919
+    second: car-pedals_29
+  - first:
+      213: 2627151371156291397
+    second: car-pedals_30
+  - first:
+      213: 6194988308697824545
+    second: car-pedals_31
+  - first:
+      213: 1878343666820017011
+    second: car-pedals_32
+  - first:
+      213: -6379644875160318347
+    second: car-pedals_33
+  - first:
+      213: 6704426603415967764
+    second: car-pedals_34
+  - first:
+      213: -8922995816762103668
+    second: car-pedals_35
+  - first:
+      213: -7213722647111148085
+    second: car-pedals_36
+  - first:
+      213: 880086181291179544
+    second: car-pedals_37
+  - first:
+      213: 1095221338570492939
+    second: car-pedals_38
+  - first:
+      213: -399441644005705699
+    second: car-pedals_39
+  - first:
+      213: -8819321208669094458
+    second: car-pedals_40
+  - first:
+      213: 6431742811634696898
+    second: car-pedals_41
+  - first:
+      213: -7928798512339862373
+    second: car-pedals_42
+  - first:
+      213: -6593183473519056537
+    second: car-pedals_43
+  - first:
+      213: 5566470368599661044
+    second: car-pedals_44
+  - first:
+      213: -5096133864340629047
+    second: car-pedals_45
+  - first:
+      213: -5570119853263854353
+    second: car-pedals_46
+  - first:
+      213: -5371086642708285811
+    second: car-pedals_47
+  - first:
+      213: 8711266361251128292
+    second: car-pedals_48
+  - first:
+      213: 7918280207702392276
+    second: car-pedals_49
+  - first:
+      213: 1224037420938787254
+    second: car-pedals_50
+  - first:
+      213: -3949690275278845937
+    second: car-pedals_51
+  - first:
+      213: 5087226799869661546
+    second: car-pedals_52
+  - first:
+      213: 7890004738307882420
+    second: car-pedals_53
+  - first:
+      213: -3779039467051223023
+    second: car-pedals_54
+  - first:
+      213: -1645606773202179898
+    second: car-pedals_55
+  - first:
+      213: 7052569273392998192
+    second: car-pedals_56
+  - first:
+      213: -1872800197553154807
+    second: car-pedals_57
+  - first:
+      213: 6791798308892761638
+    second: car-pedals_58
+  - first:
+      213: -8216084860280890578
+    second: car-pedals_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: car-pedals_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 26
+        width: 210
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b1e7aa95a9afd80800000000000000
+      internalID: -8216084860280890578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car-pedals_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 26
+        width: 173
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a728eece1c8aea040800000000000000
+      internalID: 4660848215232250490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7c04b197017dfdd4f90c349fab4a6439
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
